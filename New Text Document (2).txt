@@ -1,0 +1,5 @@
+User id : jpndevadmin
+Password : Kaihats0
+
+?
+ex    big5 'FA40' -> host 'C241'
